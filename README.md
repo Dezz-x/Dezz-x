@@ -16,7 +16,7 @@ Things I'm currently learning:
 
 Things I plan to learn:
  - Tailwind CSS 🍃
- - Node.js 👨‍💻
+ - Node.js 
 
 <!--
 **Dezz-x/Dezz-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
