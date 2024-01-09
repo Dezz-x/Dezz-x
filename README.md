@@ -9,13 +9,16 @@ Things I'm currently working on:
  - Meta Front-End Develpoment by Coursera
  - Website re-design for a local bakery 🍰
 
-Things I'm curently learning:
+Things I'm currently learning:
  - Getting more comfortable with JavaScript
  - React.js
 
 Things I plan to learn:
  - Tailwind CSS
  - Node.js
+
+"I've failed over and over and over again in my life. And that is why I succeed."
+ - Michael Jordan
 
 <!--
 **Dezz-x/Dezz-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
