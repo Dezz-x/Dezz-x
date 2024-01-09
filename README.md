@@ -1,8 +1,8 @@
 ### Welcome to my profile!
 
 
-Hey there! I'm glad you took the time out of your schedule to view my profile here on GitHub. When creating my account I wanted to set it up in a way in which I could document my learning progress and review any material that I may need to work on.
-Along with review you may find some passion projects sprinkled throughout for some extra practice. If you have any questions about my code, or have any recomendations for future projects please feel free to message me here on GitHub 😎.
+Hey there! I'm glad you took some time out of your schedule to view my profile here on GitHub. When creating my account I wanted to set it up in a way in which I could document my learning progress and review any material that I may need to work on.
+Along with review, you may find some passion projects sprinkled throughout for some extra practice. If you have any questions about my code, or have any recomendations for future projects please feel free to message me here on GitHub 😎.
 
 Things I'm currently working on:
  - The Odin Project curriculum
