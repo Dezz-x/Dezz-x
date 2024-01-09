@@ -17,6 +17,7 @@ Things I plan to learn:
  - Tailwind CSS
  - Node.js
 
+
 "I've failed over and over and over again in my life. And that is why I succeed."
  - Michael Jordan
 
