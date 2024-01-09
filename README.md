@@ -11,14 +11,12 @@ Things I'm currently working on:
 
 Things I'm currently learning:
  - Getting more comfortable with JavaScript
- - React.js
+ - React.js 📚
+
 
 Things I plan to learn:
- - Tailwind CSS
- - Node.js
-
-
-"I've failed over and over and over again in my life. And that is why I succeed."  -Michael Jordan
+ - Tailwind CSS 🍃
+ - Node.js 👨‍💻
 
 <!--
 **Dezz-x/Dezz-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
