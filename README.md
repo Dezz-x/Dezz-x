@@ -18,7 +18,7 @@ Things I plan to learn:
  - Node.js
 
 
-"I've failed over and over and over again in my life. And that is why I succeed." -Michael Jordan
+"I've failed over and over and over again in my life. And that is why I succeed."  -Michael Jordan
 
 <!--
 **Dezz-x/Dezz-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
