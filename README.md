@@ -12,11 +12,11 @@ Along with review, you may find some passion projects sprinkled throughout for s
 
 ### Things I'm currently learning:
  - Getting more comfortable with JavaScript
- - React.js 📚
+ - React.js 
 
 
 ### Things I plan to learn:
- - Tailwind CSS 🍃
+ - Tailwind CSS 
  - Node.js 
 
 <!--
