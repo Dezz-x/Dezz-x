@@ -7,6 +7,7 @@ Along with review, you may find some passion projects sprinkled throughout for s
 ### Things I'm currently working on:
  - The Odin Project curriculum
  - Meta Front-End Develpoment by Coursera
+ - Creation of my porfolio website
  - Website re-design for a local bakery 🍰
 
 ### Things I'm currently learning:
